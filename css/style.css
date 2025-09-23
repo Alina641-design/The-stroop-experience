@@ -1,0 +1,10 @@
+section{
+    display: flex;
+    width: 1000px;
+    height: 800px;
+    border: solid red 5px;
+    background: lightyellow;
+
+    justify-content: align-items;
+    align-items: center;    
+}
