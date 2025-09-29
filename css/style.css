@@ -2,9 +2,15 @@ section{
     display: flex;
     width: 1000px;
     height: 800px;
-    border: solid red 5px;
+    border: solid green 5px;
     background: lightyellow;
+
+
+    background-color: aquamarine;
 
     justify-content: align-items;
     align-items: center;    
 }
+
+
+
